@@ -1,6 +1,8 @@
 <?php
 
 $env = [
+    'title' => 'Encurtador de URL',
+    
     // Database
     'DB_HOST'       => 'localhost',
     'DB_USERNAME'   => 'root',
